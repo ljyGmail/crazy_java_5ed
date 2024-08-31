@@ -1,4 +1,4 @@
-package com.pingpong.ch04_flow_controls_and_arrays;
+package com.pingpong.ch04_flow_controls_and_arrays.sec02_branch_constructures;
 
 public class B_IfErrorTest {
     public static void main(String[] args) {
