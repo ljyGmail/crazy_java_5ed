@@ -2,8 +2,6 @@ package com.pingpong.ch04_flow_controls_and_arrays.sec06_arrays_in_depth;
 
 import java.util.Arrays;
 
-import javax.naming.NameAlreadyBoundException;
-
 public class G_Num2Rmb {
 
     private String[] hanArr = { "零", "壹", "贰", "叁", "肆", "伍", "陆", "柒", "捌", "玖" };
